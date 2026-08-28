@@ -26,8 +26,9 @@ O repositório contém exercícios sobre:
 2. Clone este repositório ou faça o download dos arquivos.
 3. Execute o arquivo desejado pelo terminal:
 
+```bash
 javac NomeDoArquivo.java
-java NomeDoArquivo
+```
 
 ## 🎓 Disciplina
 

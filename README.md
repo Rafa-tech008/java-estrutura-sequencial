@@ -1,4 +1,4 @@
--+# Java - Estruturas Sequenciais
+# Java - Estruturas Sequenciais
 
 ## 📖 Objetivo
 

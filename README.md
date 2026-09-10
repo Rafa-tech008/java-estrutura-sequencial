@@ -22,13 +22,10 @@ O repositório contém exercícios sobre:
 
 ## ▶️ Como executar
 
-1. Instale o JDK em seu computador.
+1. Instale o Java JDK em seu computador.
 2. Clone este repositório ou faça o download dos arquivos.
-3. Execute o arquivo desejado pelo terminal:
-
-```bash
-javac NomeDoArquivo.java
-```
+3. Abra o projeto no Eclipse IDE.
+4. Execute a classe Java desejada.
 
 ## 🎓 Disciplina
 
